@@ -5,7 +5,14 @@
 ![Streamlit](https://img.shields.io/badge/Streamlit-Web%20App-red)
 ![NLP](https://img.shields.io/badge/NLP-Sentiment%20Analysis-green)
 ![License](https://img.shields.io/badge/License-MIT-yellow)
+<div align="center">
 
+<a href="https://simplernn-moviereviewsentimentpredictor.streamlit.app/">
+    <img src="https://img.shields.io/badge/🚀_Live_Demo-Open_App-success?style=for-the-badge">
+</a>
+
+</div>
+---
 ## 📌 Project Overview
 
 This project is a Deep Learning based Sentiment Analysis application that classifies IMDB movie reviews as **Positive** or **Negative**.
